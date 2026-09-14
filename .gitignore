@@ -42,3 +42,6 @@ next-env.d.ts
 
 # 예제 env는 커밋 허용(실제 키 파일 .env.local 은 계속 무시)
 !.env.example
+
+# cloudflare
+/.wrangler/
